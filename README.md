@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=250304s&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=250304s&color=green) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=250304s&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=250304s&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 ### Hi there 👋
 
 <!--
