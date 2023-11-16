@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=250304s&color=green)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=250304s&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=250304s&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-### Hi there 👋
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktomoya912
-)](https://github.com/anuraghazra/github-readme-stats) -->
+<div class=container>
+  
+  ![](https://komarev.com/ghpvc/?username=Ktomoya912&color=green)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktomoya912)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **250304s/250304s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
